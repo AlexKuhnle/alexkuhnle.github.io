@@ -1,0 +1,4 @@
+<ul class="social-media-list">
+  {%- if site.google_scholar -%}<li><a href="https://scholar.google.co.uk/citations?user={{ site.google_scholar| cgi_escape | escape }}" target="_blank"><i class="ai ai-google-scholar"></i> <span>Google Scholar</span></a></li>{%- endif -%}
+  {%- if site.dblp1 -%}<li><a href="https://dblp.uni-trier.de/pid/{{ site.dblp1| cgi_escape | escape }}/{{ site.dblp2| cgi_escape | escape }}.html" target="_blank"><i class="ai ai-dblp"></i> <span>DBLP</span></a></li>{%- endif -%}
+</ul>

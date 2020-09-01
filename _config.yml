@@ -20,13 +20,17 @@
 
 title: Alexander Kuhnle
 author: Alexander Kuhnle
-email: alexkuhnle t-online.de
+location: London UK
+email: alexkuhnle@t-online.de
 description: >- # this means to ignore newlines until "baseurl:"
   Website of Alexander Kuhnle
 baseurl: ""
 url: "https://alexkuhnle.github.io/"
 github_username: AlexKuhnle
 linkedin_username: alexander-kuhnle
+google_scholar: LWFlvv8AAAAJ
+dblp1: "184"
+dblp2: "9014"
 markdown: kramdown
 highlighter: rouge
 
