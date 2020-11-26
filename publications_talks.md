@@ -47,9 +47,13 @@ permalink: /publications_talks/
 
 ## Talks
 
+- **Reinforcement Learning for Information Retrieval**. November 2020. Full-day tutorial at Search Solutions 2020 (online event), together with Miguel Aroca-Ouellette, John Reid, Dell Zhang. [[website]](https://rl-starterpack.github.io/) [[github]](https://github.com/RL-Starterpack/rl-starterpack/)
+
 - **Tensorforce: building an applied reinforcement learning framework using TensorFlow**. January 2020. Invited talk, at Google London (UK). [[slides]](assets/pdfs/google2020_slides.pdf)
 
 - **Deep learning evaluation using ShapeWorld**. July 2019. DELPH-IN Annual Meeting, at University of Cambridge (UK). [[slides]](assets/pdfs/delphin2019_slides.pdf)
+
+- **Tensorforce: a library for applied reinforcement learning**. April 2019. Bosch Research Campus, in Renningen (Germany).
 
 - **Deep reinforcement learning for controlling complex systems**. December 2018. University of Oslo, in Oslo (Norway). [[slides]](assets/pdfs/oslo2018_slides.pdf)
 

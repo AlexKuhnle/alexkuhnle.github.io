@@ -9,12 +9,15 @@ permalink: /about/
 
 **07/2019 – now** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Research Engineer at Blue Prism (London)
 - Deep learning for next-generation robotic process automation (RPA)
+- Computer vision applied to software GUIs, program synthesis from demonstrations
 
-**04/2018 – 06/2019** &nbsp; &nbsp; Core Team Machine Learning at Synthesized (London)
-- Startup focusing on data simulation technology to address data ineﬃciencies
+**04/2018 – 06/2019** &nbsp; &nbsp; Machine Learning Lead, Core Team at Synthesized (London)
+- Startup focusing on data simulation technology to address data inefficiencies
+- Deep-learning-based generative models for highly semantic data
 
 **04/2017 – now** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Lead developer of open-source project Tensorforce
 - TensorFlow library for applied reinforcement learning
+- Active open-source community: support users, manage contributions, collaborations
 
 
 
