@@ -7,6 +7,10 @@ permalink: /publications_talks/
 
 ## Publications
 
+- **Demonstration-efficient Inverse Reinforcement Learning in Procedurally Generated Environments**. February 2021. *Alessandro Sestini, Alexander Kuhnle, Andrew D. Bagdanov*. Workshop on Reinforcement Learning in Games (**AAAI 2021**), virtual. [[arxiv]](https://arxiv.org/abs/2012.02527)
+
+- **Deep Policy Networks for NPC Behaviors that Adapt to Changing Design Parameters in Roguelike Games**. February 2021. *Alessandro Sestini, Alexander Kuhnle, Andrew D. Bagdanov*. Workshop on Reinforcement Learning in Games (**AAAI 2021**), virtual. [[arxiv]](https://arxiv.org/abs/2012.03532)
+
 - **Process Discovery for Structured Program Synthesis**. August 2020. *Dell Zhang, Alexander Kuhnle, Julian Richardson, Murat Sensoy*. [[arxiv]](https://arxiv.org/abs/2008.05804)
 
 - **Robust active flow control over a range of Reynolds numbers using an artificial neural network trained through deep reinforcement learning**. April 2020. *Hongwei Tang, Jean Rabault, Alexander Kuhnle, Yan Wang and Tongguang Wang*. **Physics of Fluids 32**, 053605. [[pdf]](https://aip.scitation.org/doi/10.1063/5.0006492) [[arxiv]](https://arxiv.org/abs/2004.12417)
@@ -17,7 +21,7 @@ permalink: /publications_talks/
 
 - **What is needed for simple spatial language capabilities in VQA?**. December 2019. *Alexander Kuhnle and Ann Copestake*. Workshop on Visually Grounded Interaction and Language (**NeurIPS 2019**), in Vancouver (Canada). [[arxiv]](https://arxiv.org/abs/1908.06336) [poster]
 
-- **DeepCrawl: Deep Reinforcement Learning for Turn-based Strategy Games**. October 2019. *Alessandro Sestini, Alexander Kuhnle and Andrew D. Bagdanov*. Workshop on Experimental AI in Games (**AIIDE 2019**), in Atlanta (USA). [[pdf]](http://www.exag.org/2019/papers/EXAG_2019_paper_1.pdf)
+- **DeepCrawl: Deep Reinforcement Learning for Turn-based Strategy Games**. October 2019. *Alessandro Sestini, Alexander Kuhnle and Andrew D. Bagdanov*. Workshop on Experimental AI in Games (**AIIDE 2019**), in Atlanta (USA). [[pdf]](http://www.exag.org/2019/papers/EXAG_2019_paper_1.pdf) [[arxiv]](https://arxiv.org/abs/2012.01914)
 
 - **Accelerating Deep Reinforcement Learning of Active Flow Control strategies through a multi-environment approach**. September 2019. *Jean Rabault and Alexander Kuhnle*. **Physics of Fluids 31**, 094105. [[pdf]](https://aip.scitation.org/doi/10.1063/1.5116415) [[arxiv]](https://arxiv.org/abs/1906.10382)
 
