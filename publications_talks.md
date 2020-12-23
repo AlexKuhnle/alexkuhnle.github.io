@@ -11,6 +11,8 @@ permalink: /publications_talks/
 
 - **Deep Policy Networks for NPC Behaviors that Adapt to Changing Design Parameters in Roguelike Games**. February 2021. *Alessandro Sestini, Alexander Kuhnle, Andrew D. Bagdanov*. Workshop on Reinforcement Learning in Games (**AAAI 2021**), virtual. [[arxiv]](https://arxiv.org/abs/2012.03532)
 
+- **Direct shape optimization through deep reinforcement learning**. December 2020. *Jonathan Viquerat, Jean Rabault, Alexander Kuhnle, Hassan Ghraieb, Aurélien Larcher and Elie Hachem*. **Journal of Computational Physics**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0021999120308548) [[arxiv]](https://arxiv.org/abs/1908.09885)
+
 - **Process Discovery for Structured Program Synthesis**. August 2020. *Dell Zhang, Alexander Kuhnle, Julian Richardson, Murat Sensoy*. [[arxiv]](https://arxiv.org/abs/2008.05804)
 
 - **Robust active flow control over a range of Reynolds numbers using an artificial neural network trained through deep reinforcement learning**. April 2020. *Hongwei Tang, Jean Rabault, Alexander Kuhnle, Yan Wang and Tongguang Wang*. **Physics of Fluids 32**, 053605. [[pdf]](https://aip.scitation.org/doi/10.1063/5.0006492) [[arxiv]](https://arxiv.org/abs/2004.12417)
@@ -26,8 +28,6 @@ permalink: /publications_talks/
 - **Accelerating Deep Reinforcement Learning of Active Flow Control strategies through a multi-environment approach**. September 2019. *Jean Rabault and Alexander Kuhnle*. **Physics of Fluids 31**, 094105. [[pdf]](https://aip.scitation.org/doi/10.1063/1.5116415) [[arxiv]](https://arxiv.org/abs/1906.10382)
 
 - **The meaning of "most" for visual question answering models**. August 2019. *Alexander Kuhnle and Ann Copestake*. Proceedings of the 2nd edition of the BlackboxNLP Workshop (**ACL 2019**), in Florence (Italy). [[pdf]](https://www.aclweb.org/anthology/W19-4806/) [[arxiv]](https://arxiv.org/abs/1812.11737) [[poster]](assets/pdfs/acl2019_poster.pdf)
-
-- **Direct shape optimization through deep reinforcement learning**. August 2019. *Jonathan Viquerat, Jean Rabault, Alexander Kuhnle, Hassan Ghraieb and Elie Hachem*. [[arxiv]](https://arxiv.org/abs/1908.09885)
 
 - **How clever is the FiLM model, and how clever can it be?**. September 2018. *Alexander Kuhnle, Huiyuan Xie and Ann Copestake*. Proceedings of the Workshop on Shortcomings in Vision and Language (**ECCV 2018**), in Munich (Germany). [[pdf]](http://openaccess.thecvf.com/content_eccv_2018_workshops/w21/html/Kuhnle_How_clever_is_the_FiLM_model_and_how_clever_can_ECCVW_2018_paper.html) [[arxiv]](https://arxiv.org/abs/1809.03044) [[poster]](assets/pdfs/eccv2018_poster.pdf)
 
