@@ -7,9 +7,9 @@ permalink: /publications_talks/
 
 ## Publications
 
-- **Demonstration-efficient Inverse Reinforcement Learning in Procedurally Generated Environments**. February 2021. *Alessandro Sestini, Alexander Kuhnle, Andrew D. Bagdanov*. Workshop on Reinforcement Learning in Games (**AAAI 2021**), virtual. [[arxiv]](https://arxiv.org/abs/2012.02527)
+- **Demonstration-efficient Inverse Reinforcement Learning in Procedurally Generated Environments**. February 2021. *Alessandro Sestini, Alexander Kuhnle, Andrew D. Bagdanov*. Workshop on Reinforcement Learning in Games (**AAAI 2021**), virtual. [[pdf]](http://aaai-rlg.mlanctot.info/papers/AAAI21-RLG_paper_19.pdf) [[arxiv]](https://arxiv.org/abs/2012.02527)
 
-- **Deep Policy Networks for NPC Behaviors that Adapt to Changing Design Parameters in Roguelike Games**. February 2021. *Alessandro Sestini, Alexander Kuhnle, Andrew D. Bagdanov*. Workshop on Reinforcement Learning in Games (**AAAI 2021**), virtual. [[arxiv]](https://arxiv.org/abs/2012.03532)
+- **Deep Policy Networks for NPC Behaviors that Adapt to Changing Design Parameters in Roguelike Games**. February 2021. *Alessandro Sestini, Alexander Kuhnle, Andrew D. Bagdanov*. Workshop on Reinforcement Learning in Games (**AAAI 2021**), virtual. [[pdf]](http://aaai-rlg.mlanctot.info/papers/AAAI21-RLG_paper_17.pdf) [[arxiv]](https://arxiv.org/abs/2012.03532)
 
 - **Direct shape optimization through deep reinforcement learning**. December 2020. *Jonathan Viquerat, Jean Rabault, Alexander Kuhnle, Hassan Ghraieb, Aurélien Larcher and Elie Hachem*. **Journal of Computational Physics**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0021999120308548) [[arxiv]](https://arxiv.org/abs/1908.09885)
 
@@ -51,7 +51,7 @@ permalink: /publications_talks/
 
 ## Talks
 
-- **Reinforcement Learning for Information Retrieval**. November 2020. Full-day tutorial at Search Solutions 2020 (online event), together with Miguel Aroca-Ouellette, John Reid, Dell Zhang. [[website]](https://rl-starterpack.github.io/) [[github]](https://github.com/RL-Starterpack/rl-starterpack/)
+- **Reinforcement Learning for Information Retrieval**. Full-day tutorial at the European Conference on Information Retrieval (**ECIR 2021**, March 2021, online event), and at Search Solutions (November 2020, online event), together with Miguel Aroca-Ouellette, John Reid, Dell Zhang. [[website]](https://rl-starterpack.github.io/) [[github]](https://github.com/RL-Starterpack/rl-starterpack/) [[ECIR 2021]](https://www.ecir2021.eu/tutorials/) [[SS 2020]](https://irsg.bcs.org/SearchSolutions/2020/ss2020tutorials.php)
 
 - **Tensorforce: building an applied reinforcement learning framework using TensorFlow**. January 2020. Invited talk, at Google London (UK). [[slides]](assets/pdfs/google2020_slides.pdf)
 
