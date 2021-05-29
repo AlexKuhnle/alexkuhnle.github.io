@@ -9,15 +9,15 @@ permalink: /publications_talks/
 
 - **Deep Reinforcement Learning applied to Active Flow Control**. Upcoming. *Jean Rabault and Alexander Kuhnle*. [[preprint]](https://www.researchgate.net/profile/Jean-Rabault-2/publication/343934046_DEEP_REINFORCEMENT_LEARNING_APPLIED_TO_ACTIVE_FLOW_CONTROL/links/5fa4fad6a6fdcc062418972c/DEEP-REINFORCEMENT-LEARNING-APPLIED-TO-ACTIVE-FLOW-CONTROL.pdf)
 
-- **A review on deep reinforcement learning for fluid mechanics**. July 2021. *Paul Garnier, Jonathan Viquerat, Jean Rabault, Aurélien Larcher, Alexander Kuhnle and Elie Hachem*. **Computers & Fluids 225**, 104973. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0045793021001407) [[arxiv]](https://arxiv.org/abs/1908.04127)
+- **Policy Fusion for Adaptive and Customizable Reinforcement Learning Agents**. August 2021. *Alessandro Sestini, Alexander Kuhnle and Andrew D. Bagdanov*. 3rd IEEE Conference on Games (**CoG 2021**), Copenhagen (Denmark). [[arxiv]](https://arxiv.org/abs/2104.10610)
 
-- **Policy Fusion for Adaptive and Customizable Reinforcement Learning Agents**. April 2021. *Alessandro Sestini, Alexander Kuhnle and Andrew D. Bagdanov*. [[arxiv]](https://arxiv.org/abs/2104.10610)
+- **A review on deep reinforcement learning for fluid mechanics**. July 2021. *Paul Garnier, Jonathan Viquerat, Jean Rabault, Aurélien Larcher, Alexander Kuhnle and Elie Hachem*. **Computers & Fluids 225**, 104973. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0045793021001407) [[arxiv]](https://arxiv.org/abs/1908.04127)
 
 - **Policy-based optimization: single-step policy gradient method seen as an evolution strategy**. April 2021. *Jonathan Viquerat, Régis Duvigneau, Philippe Meliga, Alexander Kuhnle and Elie Hachem*. [[arxiv]](https://arxiv.org/abs/2104.06175)
 
 - **Direct shape optimization through deep reinforcement learning**. March 2021. *Jonathan Viquerat, Jean Rabault, Alexander Kuhnle, Hassan Ghraieb, Aurélien Larcher and Elie Hachem*. **Journal of Computational Physics 428**, 110080. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0021999120308548) [[arxiv]](https://arxiv.org/abs/1908.09885)
 
-- **Demonstration-efficient Inverse Reinforcement Learning in Procedurally Generated Environments**. February 2021. *Alessandro Sestini, Alexander Kuhnle and Andrew D. Bagdanov*. Workshop on Reinforcement Learning in Games (**AAAI 2021**), virtual. [[pdf]](http://aaai-rlg.mlanctot.info/papers/AAAI21-RLG_paper_19.pdf) [[arxiv]](https://arxiv.org/abs/2012.02527)
+- **Demonstration-efficient Inverse Reinforcement Learning in Procedurally Generated Environments**. February/August 2021. *Alessandro Sestini, Alexander Kuhnle and Andrew D. Bagdanov*. Workshop on Reinforcement Learning in Games (**AAAI 2021**), virtual. 3rd IEEE Conference on Games (**CoG 2021**), Copenhagen (Denmark). [[pdf]](http://aaai-rlg.mlanctot.info/papers/AAAI21-RLG_paper_19.pdf) [[arxiv]](https://arxiv.org/abs/2012.02527)
 
 - **Deep Policy Networks for NPC Behaviors that Adapt to Changing Design Parameters in Roguelike Games**. February 2021. *Alessandro Sestini, Alexander Kuhnle and Andrew D. Bagdanov*. Workshop on Reinforcement Learning in Games (**AAAI 2021**), virtual. [[pdf]](http://aaai-rlg.mlanctot.info/papers/AAAI21-RLG_paper_17.pdf) [[arxiv]](https://arxiv.org/abs/2012.03532)
 
