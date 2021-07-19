@@ -60,7 +60,7 @@ permalink: /publications_talks/
 ## Talks
 
 - **Reinforcement Learning for Information Retrieval**. Full-day tutorial at multiple venues, together with *Miguel Aroca-Ouellette, John Reid, Dell Zhang and Murat Sensoy*. [[website]](https://rl-starterpack.github.io/) [[github]](https://github.com/RL-Starterpack/rl-starterpack/)
-    - International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2021**). July 2021, online event. [[website]](https://sigir.org/sigir2021/tutorials/)
+    - International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2021**). July 2021, online event. [[proceedings]](https://dl.acm.org/doi/abs/10.1145/3404835.3462813) [[website]](https://sigir.org/sigir2021/tutorials/)
     - European Conference on Information Retrieval (**ECIR 2021**). March 2021, online event. [[website]](https://www.ecir2021.eu/tutorials/)
     - Search Solutions. November 2020, online event. [[website]](https://irsg.bcs.org/SearchSolutions/2020/ss2020tutorials.php)
 

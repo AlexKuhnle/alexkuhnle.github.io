@@ -25,6 +25,8 @@ permalink: /about/
 
 **10/2015 – 01/2020** &nbsp; &nbsp; PhD in Computer Science at the University of Cambridge
 - PhD project: Evaluating visually grounded language capabilities using microworlds
+- Supervisor: Ann Copestake, Professor of Computational Linguistics
+- My dissertation has been highly commended as one of two runners-up in the UK-wide [CPHC/BCS Distinguished Dissertation Award 2020](https://www.bcs.org/more/about-us/press-office/press-releases/winner-of-the-cphcbcs-distinguished-dissertation-award-announced/)
 
 **07/2015 – 09/2015** &nbsp; &nbsp; Internship at Illumina (UK)
 - Research project: new models for representing genome reference data
