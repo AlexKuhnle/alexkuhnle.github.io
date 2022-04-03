@@ -7,7 +7,13 @@ permalink: /publications_talks/
 
 ## Publications
 
+#### 2022
+
 - **Deep Reinforcement Learning applied to Active Flow Control**. Upcoming. *Jean Rabault and Alexander Kuhnle*. [[preprint]](https://www.researchgate.net/profile/Jean-Rabault-2/publication/343934046_DEEP_REINFORCEMENT_LEARNING_APPLIED_TO_ACTIVE_FLOW_CONTROL/links/5fa4fad6a6fdcc062418972c/DEEP-REINFORCEMENT-LEARNING-APPLIED-TO-ACTIVE-FLOW-CONTROL.pdf)
+
+- **Comparative analysis of machine learning methods for active flow control**. February 2022. *Fabio Pino, Lorenzo Schena, Jean Rabault, Alexander Kuhnle, Miguel Mendez*. [[arxiv]](https://arxiv.org/abs/2202.11664)
+
+#### 2021
 
 - **Policy Fusion for Adaptive and Customizable Reinforcement Learning Agents**. August 2021. *Alessandro Sestini, Alexander Kuhnle and Andrew D. Bagdanov*. 3rd IEEE Conference on Games (**CoG 2021**), Copenhagen (Denmark). [[arxiv]](https://arxiv.org/abs/2104.10610)
 
@@ -21,6 +27,8 @@ permalink: /publications_talks/
 
 - **Deep Policy Networks for NPC Behaviors that Adapt to Changing Design Parameters in Roguelike Games**. February 2021. *Alessandro Sestini, Alexander Kuhnle and Andrew D. Bagdanov*. Workshop on Reinforcement Learning in Games (**AAAI 2021**), virtual. [[pdf]](http://aaai-rlg.mlanctot.info/papers/AAAI21-RLG_paper_17.pdf) [[arxiv]](https://arxiv.org/abs/2012.03532)
 
+#### 2020
+
 - **Process Discovery for Structured Program Synthesis**. August 2020. *Dell Zhang, Alexander Kuhnle, Julian Richardson and Murat Sensoy*. [[arxiv]](https://arxiv.org/abs/2008.05804)
 
 - **Robust active flow control over a range of Reynolds numbers using an artificial neural network trained through deep reinforcement learning**. May 2020. *Hongwei Tang, Jean Rabault, Alexander Kuhnle, Yan Wang and Tongguang Wang*. **Physics of Fluids 32**, 053605. [[pdf]](https://aip.scitation.org/doi/10.1063/5.0006492) [[arxiv]](https://arxiv.org/abs/2004.12417)
@@ -28,6 +36,8 @@ permalink: /publications_talks/
 - **Going Beneath the Surface: Evaluating Image Captioning for Grammaticality, Truthfulness and Diversity**. February 2020. *Huiyuan Xie, Tom Sherborne, Alexander Kuhnle and Ann Copestake*. Workshop on Evaluating Evaluation of AI Systems (**AAAI 2020**), in New York (USA). [[arxiv]](https://arxiv.org/abs/1912.08960)
 
 - **Evaluating visually grounded language capabilities using microworlds**. January 2020. *Alexander Kuhnle*. **PhD Thesis**. [[pdf]](https://www.repository.cam.ac.uk/handle/1810/302101) [[techreport]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-942.html)
+
+#### 2019
 
 - **What is needed for simple spatial language capabilities in VQA?**. December 2019. *Alexander Kuhnle and Ann Copestake*. Workshop on Visually Grounded Interaction and Language (**NeurIPS 2019**), in Vancouver (Canada). [[arxiv]](https://arxiv.org/abs/1908.06336) [poster]
 
@@ -37,15 +47,21 @@ permalink: /publications_talks/
 
 - **The meaning of "most" for visual question answering models**. August 2019. *Alexander Kuhnle and Ann Copestake*. Proceedings of the 2nd edition of the BlackboxNLP Workshop (**ACL 2019**), in Florence (Italy). [[pdf]](https://www.aclweb.org/anthology/W19-4806/) [[arxiv]](https://arxiv.org/abs/1812.11737) [[poster]](assets/pdfs/acl2019_poster.pdf)
 
+#### 2018
+
 - **How clever is the FiLM model, and how clever can it be?**. September 2018. *Alexander Kuhnle, Huiyuan Xie and Ann Copestake*. Proceedings of the Workshop on Shortcomings in Vision and Language (**ECCV 2018**), in Munich (Germany). [[pdf]](http://openaccess.thecvf.com/content_eccv_2018_workshops/w21/html/Kuhnle_How_clever_is_the_FiLM_model_and_how_clever_can_ECCVW_2018_paper.html) [[arxiv]](https://arxiv.org/abs/1809.03044) [[poster]](assets/pdfs/eccv2018_poster.pdf)
 
 - **LIFT: Reinforcement Learning in Computer Systems by Learning From Demonstrations**. August 2018. *Michael Schaarschmidt, Alexander Kuhnle, Ben Ellis, Kai Fricke, Felix Gessert and Eiko Yoneki*. [[arxiv]](https://arxiv.org/abs/1808.07903)
 
 - **Deep learning evaluation using deep linguistic processing**. June 2018. *Alexander Kuhnle and Ann Copestake*. Proceedings of the Workshop on Generalization in the Age of Deep Learning (**NAACL 2018**), in New Orleans (USA). [[pdf]](https://www.aclweb.org/anthology/W18-1003/) [[arxiv]](https://arxiv.org/abs/1706.01322) [[poster]](assets/pdfs/naacl2018_poster.pdf)
 
+#### 2017
+
 - **Artificial microworlds and deep linguistic processing for evaluating language understanding**. June 2017. *Alexander Kuhnle and Ann Copestake*. Machine Learning Summer School (**MLSS 2017**), in Tübingen (Germany). [[poster]](assets/pdfs/mlss2017_poster.pdf)
 
 - **ShapeWorld: A new test methodology for multimodal language understanding**. April 2017. *Alexander Kuhnle and Ann Copestake*. [[arxiv]](https://arxiv.org/abs/1704.04517) [[github]](https://github.com/AlexKuhnle/ShapeWorld)
+
+#### 2016
 
 - **A proposition-based abstractive summariser**. December 2016. *Yimai Fang, Haoyue Zhu, Ewa Muszyńska, Alexander Kuhnle and Simone Teufel*. Proceedings of the 26th International Conference on Computational Linguistics (**COLING 2016**), in Osaka (Japan). [[pdf]](https://www.aclweb.org/anthology/C16-1055/)
 
@@ -59,7 +75,7 @@ permalink: /publications_talks/
 
 ## Talks
 
-- **Reinforcement Learning for Information Retrieval**. Full-day tutorial at multiple venues, together with *Miguel Aroca-Ouellette, John Reid, Dell Zhang and Murat Sensoy*. [[website]](https://rl-starterpack.github.io/) [[github]](https://github.com/RL-Starterpack/rl-starterpack/)
+- **Reinforcement Learning for Information Retrieval**. Full-day tutorial at multiple venues, together with *Miguel Aroca-Ouellette, Anindya Basu, John Reid, Dell Zhang and Murat Sensoy*. [[website]](https://rl-starterpack.github.io/) [[github]](https://github.com/RL-Starterpack/rl-starterpack/)
     - International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2021**). July 2021, online event. [[proceedings]](https://dl.acm.org/doi/abs/10.1145/3404835.3462813) [[website]](https://sigir.org/sigir2021/tutorials/)
     - European Conference on Information Retrieval (**ECIR 2021**). March 2021, online event. [[website]](https://www.ecir2021.eu/tutorials/)
     - Search Solutions. November 2020, online event. [[website]](https://irsg.bcs.org/SearchSolutions/2020/ss2020tutorials.php)
