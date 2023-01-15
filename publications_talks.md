@@ -11,15 +11,13 @@ permalink: /publications_talks/
 
 - **Deep Reinforcement Learning applied to Active Flow Control**. Upcoming. *Jean Rabault and Alexander Kuhnle*. [[preprint]](https://www.researchgate.net/profile/Jean-Rabault-2/publication/343934046_DEEP_REINFORCEMENT_LEARNING_APPLIED_TO_ACTIVE_FLOW_CONTROL/links/5fa4fad6a6fdcc062418972c/DEEP-REINFORCEMENT-LEARNING-APPLIED-TO-ACTIVE-FLOW-CONTROL.pdf)
 
-- **Comparative analysis of machine learning methods for active flow control**. February 2022. *Fabio Pino, Lorenzo Schena, Jean Rabault, Alexander Kuhnle, Miguel Mendez*. [[arxiv]](https://arxiv.org/abs/2202.11664)
+- **Policy-based optimization: single-step policy gradient method seen as an evolution strategy**. September 2022. *Jonathan Viquerat, Régis Duvigneau, Philippe Meliga, Alexander Kuhnle and Elie Hachem*. **Neural Computing and Applications**. [[paper]](https://link.springer.com/article/10.1007/s00521-022-07779-0) [[arxiv]](https://arxiv.org/abs/2104.06175)
 
 #### 2021
 
 - **Policy Fusion for Adaptive and Customizable Reinforcement Learning Agents**. August 2021. *Alessandro Sestini, Alexander Kuhnle and Andrew D. Bagdanov*. 3rd IEEE Conference on Games (**CoG 2021**), Copenhagen (Denmark). [[arxiv]](https://arxiv.org/abs/2104.10610)
 
 - **A review on deep reinforcement learning for fluid mechanics**. July 2021. *Paul Garnier, Jonathan Viquerat, Jean Rabault, Aurélien Larcher, Alexander Kuhnle and Elie Hachem*. **Computers & Fluids 225**, 104973. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0045793021001407) [[arxiv]](https://arxiv.org/abs/1908.04127)
-
-- **Policy-based optimization: single-step policy gradient method seen as an evolution strategy**. April 2021. *Jonathan Viquerat, Régis Duvigneau, Philippe Meliga, Alexander Kuhnle and Elie Hachem*. [[arxiv]](https://arxiv.org/abs/2104.06175)
 
 - **Direct shape optimization through deep reinforcement learning**. March 2021. *Jonathan Viquerat, Jean Rabault, Alexander Kuhnle, Hassan Ghraieb, Aurélien Larcher and Elie Hachem*. **Journal of Computational Physics 428**, 110080. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0021999120308548) [[arxiv]](https://arxiv.org/abs/1908.09885)
 

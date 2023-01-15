@@ -7,7 +7,16 @@ permalink: /about/
 
 ## Professional experience
 
-**06/2021 – now** &nbsp; &nbsp; Machine Learning Project Lead at Blue Prism AI Labs (London, UK)
+**09/2022 – present** &nbsp; &nbsp; AI/ML Technical Lead at SS&C Blue Prism (London, UK)
+
+- Technical AI leadership across the SS&C Blue Prism product portfolio.
+- Management of machine learning projects from ideation through to delivery.
+- Focus R&D activity on delivering iterative value and product differentiation.
+- Drive collaboration with product management, architecture and engineering across product delivery lifecycle.
+- Performance management and career development for the machine learning team.
+
+
+**06/2021 – 08/2022** &nbsp; &nbsp; ML Project Lead at Blue Prism AI Labs (London, UK)
 
 - Established technical vision and product strategy for an R&D project to leverage computer vision to understand desktop screens and enable users to automate GUI application workflows.
 - Project manager leading a team of 6 researchers: coordinating R&D roadmap and delivery, establishing working practice, providing technical guidance (certification: [AgilePM Foundation](https://www.credly.com/badges/66dc9376-74ec-40da-9ecc-f87a3a3b030d/public_url) & [Practitioner](https://www.credly.com/badges/8e0eec39-ba7c-4e1b-a1f2-4c8082d39180/public_url).
@@ -32,7 +41,7 @@ permalink: /about/
 
 ## Open-source experience
 
-**04/2017 – now** &nbsp; &nbsp; Lead developer of Tensorforce
+**04/2017 – 01/2022** &nbsp; &nbsp; Lead developer of Tensorforce
 
 - [Tensorforce](https://github.com/tensorforce/tensorforce) is a TensorFlow library for applied reinforcement learning.
 - One of the three creators of the framework and the sole maintainer of the framework since 2018.
