@@ -10,10 +10,9 @@ permalink: /about/
 **09/2022 – present** &nbsp; &nbsp; AI/ML Technical Lead at SS&C Blue Prism (London, UK)
 
 - Technical AI leadership across the SS&C Blue Prism product portfolio.
-- Management of machine learning projects from ideation through to delivery.
-- Focus R&D activity on delivering iterative value and product differentiation.
-- Drive collaboration with product management, architecture and engineering across product delivery lifecycle.
-- Performance management and career development for the machine learning team.
+- Recently in particular focused on generative AI and large language models: providing thought leadership to inform the company’s position and identifying quick wins as well as longer-term strategic focus projects.
+- Driving the delivery of machine learning projects in the computer vision and document processing space, in collaboration with product management, product owners, architecture and engineering.
+- Technical guidance, performance management and career development for the machine learning team.
 
 
 **06/2021 – 08/2022** &nbsp; &nbsp; ML Project Lead at Blue Prism AI Labs (London, UK)

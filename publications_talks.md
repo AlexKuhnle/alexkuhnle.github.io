@@ -7,11 +7,13 @@ permalink: /publications_talks/
 
 ## Publications
 
+#### 2023
+
+- **Policy-based optimization: single-step policy gradient method seen as an evolution strategy**. January 2023. *Jonathan Viquerat, Régis Duvigneau, Philippe Meliga, Alexander Kuhnle and Elie Hachem*. **Neural Computing and Applications** 35 (1). [[paper]](https://link.springer.com/article/10.1007/s00521-022-07779-0) [[arxiv]](https://arxiv.org/abs/2104.06175)
+
 #### 2022
 
 - **Deep Reinforcement Learning applied to Active Flow Control**. Upcoming. *Jean Rabault and Alexander Kuhnle*. [[preprint]](https://www.researchgate.net/profile/Jean-Rabault-2/publication/343934046_DEEP_REINFORCEMENT_LEARNING_APPLIED_TO_ACTIVE_FLOW_CONTROL/links/5fa4fad6a6fdcc062418972c/DEEP-REINFORCEMENT-LEARNING-APPLIED-TO-ACTIVE-FLOW-CONTROL.pdf)
-
-- **Policy-based optimization: single-step policy gradient method seen as an evolution strategy**. September 2022. *Jonathan Viquerat, Régis Duvigneau, Philippe Meliga, Alexander Kuhnle and Elie Hachem*. **Neural Computing and Applications**. [[paper]](https://link.springer.com/article/10.1007/s00521-022-07779-0) [[arxiv]](https://arxiv.org/abs/2104.06175)
 
 #### 2021
 
