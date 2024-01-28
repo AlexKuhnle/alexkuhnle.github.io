@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-I am currently the Technical Lead for AI/ML across the product portfolio at SS&C Blue Prism, responsible for leading R&D projects and delivering iterative value through innovative ML products.
+I am currently heading the AI Labs at SS&C Blue Prism, leading and managing a team of Machine Learning Research Engineers and responsible for delivering iterative value through innovative ML products.
 
 Until recently, I maintained and developed the open-source applied reinforcement learning framework [Tensorforce](https://github.com/tensorforce/tensorforce).
 

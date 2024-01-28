@@ -7,42 +7,50 @@ permalink: /about/
 
 ## Professional experience
 
-**09/2022 – present** &nbsp; &nbsp; AI/ML Technical Lead at SS&C Blue Prism (London, UK)
 
-- Technical AI leadership across the SS&C Blue Prism product portfolio.
-- Recently in particular focused on generative AI and large language models: providing thought leadership to inform the company’s position and identifying quick wins as well as longer-term strategic focus projects.
-- Driving the delivery of machine learning projects in the computer vision and document processing space, in collaboration with product management, product owners, architecture and engineering.
+**11/2023 – present** &nbsp; &nbsp; AI Manager at SS&C Blue Prism (London, UK)
+- Lead and manage the AI Labs, a team of 9 ML Research Engineers, reporting to VP Engineering.
+
+
+**09/2022 – 10/2023** &nbsp; &nbsp; ML Technical Lead at SS&C Blue Prism (London, UK)
+
+- Responsible for technical AI leadership across the SS&C Blue Prism product portfolio.
+- Provided thought leadership across strategic and operational functions, and worked with Senior Director of Product Management to establish and structure the company’s product initiatives on large language models.
+- Helped kick-start an incubation engineering team to rapidly deliver on the LLM roadmap.
+- Established an alternative approach to a high-impact document processing project whose delivery was at risk.
+- Continued development of Smart Vision (see below) and collaboration with engineering to productionise the prototype, resulting in the first Blue Prism Enterprise release to rely on a cloud-hosted ML service.
 - Technical guidance, performance management and career development for the machine learning team.
 
 
-**06/2021 – 08/2022** &nbsp; &nbsp; ML Project Lead at Blue Prism AI Labs (London, UK)
+**06/2021 – 08/2022** &nbsp; &nbsp; Lead ML Research Engineer at Blue Prism AI Labs (London, UK)
 
-- Established technical vision and product strategy for an R&D project to leverage computer vision to understand desktop screens and enable users to automate GUI application workflows.
-- Project manager leading a team of 6 researchers: coordinating R&D roadmap and delivery, establishing working practice, providing technical guidance (certification: [AgilePM Foundation](https://www.credly.com/badges/66dc9376-74ec-40da-9ecc-f87a3a3b030d/public_url) & [Practitioner](https://www.credly.com/badges/8e0eec39-ba7c-4e1b-a1f2-4c8082d39180/public_url).
-- Acted as R&D proxy-product-manager/owner, managing stakeholders across product management, architecture, engineering, legal, security, as well as presenting to senior management.
-- Progressed the project from inception to the point of deploying a functional prototype to alpha customers for user testing and handing over development to engineering to productionise the prototype.
+- Established product vision for a core product feature (now released as Smart Vision) to leverage computer vision models to understand desktop screens and enable users to automate GUI application workflows.
+- Progressed the project from inception to the point of deploying a functional prototype to alpha customers.
+- Project manager leading a team of 6 ML engineers: coordinating R&D roadmap and delivery, establishing working practice, providing technical guidance (certification: [AgilePM Foundation](https://www.credly.com/badges/66dc9376-74ec-40da-9ecc-f87a3a3b030d/public_url) & [Practitioner](https://www.credly.com/badges/8e0eec39-ba7c-4e1b-a1f2-4c8082d39180/public_url).
+- Hands-on contributor as well as technical product lead function, managing stakeholders across product management, architecture, engineering, legal, security, as well as presenting to senior management.
+- Technologies: Python, PyTorch, Docker, microservices architecture, Azure DevOps.
 
 
-**07/2019 – 05/2021** &nbsp; &nbsp; Research Engineer at Blue Prism AI Labs (London, UK)
+**07/2019 – 05/2021** &nbsp; &nbsp; ML Research Engineer at Blue Prism AI Labs (London, UK)
 
-- Worked on 3 research projects: program synthesis from demonstrations, optical character recognition dedicated to rendered font on screens, and computer vision applied to application GUIs.
-- Independently designed, developed, and validated an improved OCR capability which has been integrated into the core product. As part of that I led stakeholder interactions, advised product engineering on implementation considerations, and provided technical support.
+- Worked on 3 research projects: program synthesis from demonstrations, optical character recognition dedicated to rendered fonts on screens, and computer vision applied to application GUIs.
+- Independently designed, developed, and validated an improved OCR capability which has been integrated into the core product. Led stakeholder interactions, advised product engineering, and provided technical support.
 - Drove academic engagement: based on a series of internal talks I gave, we organised a conference tutorial on [Reinforcement Learning for Information Retrieval](https://rl-starterpack.github.io/), presented 3x at SIGIR 2021, ECIR 2021, Search Solutions 2020.
 
 
 **04/2018 – 06/2019** &nbsp; &nbsp; Machine Learning Lead, Core Team at Synthesized (London, UK)
 
 - Led machine learning development at a start-up focusing on data simulation to address data inefficiencies.
-- Designed the machine learning backend architecture of the MVP and developed the core generative models for highly semantic tabular data.
-- Engaged with early customers, partners, and investors: delivering technical pitches, explaining technology and market differentiators, and presenting product vision.
+- Designed the ML backend architecture and developed the generative models for highly semantic tabular data.
+- Presented technical product vision and market differentiators to early customers, partners, and investors.
 
 
 
 ## Open-source experience
 
-**04/2017 – 01/2022** &nbsp; &nbsp; Lead developer of Tensorforce
+**04/2017 – 01/2022** &nbsp; &nbsp; [Tensorforce](https://github.com/tensorforce/tensorforce)
 
-- [Tensorforce](https://github.com/tensorforce/tensorforce) is a TensorFlow library for applied reinforcement learning.
+- TensorFlow library for applied reinforcement learning, Github: 3,300 stars.
 - One of the three creators of the framework and the sole maintainer of the framework since 2018.
 - Designed the modular and flexible architecture of the framework as it is today.
 - Managed the open-source community by actively supporting users with the application of the framework to their reinforcement learning use cases, which has led to longer-term research collaborations and publications.
