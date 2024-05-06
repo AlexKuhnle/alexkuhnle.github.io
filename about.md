@@ -8,7 +8,11 @@ permalink: /about/
 ## Professional experience
 
 
-**11/2023 – present** &nbsp; &nbsp; AI Manager at SS&C Blue Prism (London, UK)
+**04/2024 – present** &nbsp; &nbsp; AI Research Manager at Zebra Technologies (London, UK)
+
+
+**11/2023 – 03/2024** &nbsp; &nbsp; AI Manager at SS&C Blue Prism (London, UK)
+
 - Lead and manage the AI Labs, a team of 9 ML Research Engineers, reporting to VP Engineering.
 
 
