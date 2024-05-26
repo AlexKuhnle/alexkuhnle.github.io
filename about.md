@@ -10,16 +10,14 @@ permalink: /about/
 
 **04/2024 – present** &nbsp; &nbsp; AI Research Manager at Zebra Technologies (London, UK)
 
-
-**11/2023 – 03/2024** &nbsp; &nbsp; AI Manager at SS&C Blue Prism (London, UK)
-
-- Lead and manage the AI Labs, a team of 9 ML Research Engineers, reporting to VP Engineering.
+- Work with Global Director of AI to lead and manage a team of 18 ML Research Engineers.
+- Build out the LLM team and establish research direction, with focus on optimising LLMs to run on Zebra devices.
 
 
-**09/2022 – 10/2023** &nbsp; &nbsp; ML Technical Lead at SS&C Blue Prism (London, UK)
+**09/2022 – 03/2024** &nbsp; &nbsp; AI Lead / Manager at SS&C Blue Prism (London, UK)
 
-- Responsible for technical AI leadership across the SS&C Blue Prism product portfolio.
-- Provided thought leadership across strategic and operational functions, and worked with Senior Director of Product Management to establish and structure the company’s product initiatives on large language models.
+- Responsible for technical leadership and since 11/23 line management of the AI Labs, a team of 9 ML Engineers, reporting to VP Engineering.
+- Provided thought leadership across the SS&C Blue Prism product portfolio and worked with Senior Director of Product Management to establish the company’s product initiatives on large language models.
 - Helped kick-start an incubation engineering team to rapidly deliver on the LLM roadmap.
 - Established an alternative approach to a high-impact document processing project whose delivery was at risk.
 - Continued development of Smart Vision (see below) and collaboration with engineering to productionise the prototype, resulting in the first Blue Prism Enterprise release to rely on a cloud-hosted ML service.
