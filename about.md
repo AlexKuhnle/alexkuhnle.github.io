@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
@@ -10,8 +10,8 @@ permalink: /about/
 
 **04/2024 – present** &nbsp; &nbsp; AI Research Manager at Zebra Technologies (London, UK)
 
-- Work with Global Director of AI to lead and manage a team of 18 ML Research Engineers.
-- Build out the LLM team and establish research direction, with focus on optimising LLMs to run on Zebra devices.
+- Work with Global Director of AI to jointly manage the AI research team consisting of more than 20 ML engineers.
+- Establish and lead the LLM project team: expanded the team from 3 to 8 ML Engineers and established priorities focused on optimising LLMs to run on Zebra devices and evaluating model capabilities for RAG use cases.
 
 
 **09/2022 – 03/2024** &nbsp; &nbsp; AI Lead / Manager at SS&C Blue Prism (London, UK)
@@ -22,6 +22,8 @@ permalink: /about/
 - Established an alternative approach to a high-impact document processing project whose delivery was at risk.
 - Continued development of Smart Vision (see below) and collaboration with engineering to productionise the prototype, resulting in the first Blue Prism Enterprise release to rely on a cloud-hosted ML service.
 - Technical guidance, performance management and career development for the machine learning team.
+- Hands-on contributions: model deployment stabilisation, inference optimisation, service scaling configuration.
+- Organised an internal learning series focused on implementing a ViT and an LLM from scratch using PyTorch.
 
 
 **06/2021 – 08/2022** &nbsp; &nbsp; Lead ML Research Engineer at Blue Prism AI Labs (London, UK)
@@ -30,6 +32,7 @@ permalink: /about/
 - Progressed the project from inception to the point of deploying a functional prototype to alpha customers.
 - Project manager leading a team of 6 ML engineers: coordinating R&D roadmap and delivery, establishing working practice, providing technical guidance (certification: [AgilePM Foundation](https://www.credly.com/badges/66dc9376-74ec-40da-9ecc-f87a3a3b030d/public_url) & [Practitioner](https://www.credly.com/badges/8e0eec39-ba7c-4e1b-a1f2-4c8082d39180/public_url).
 - Hands-on contributor as well as technical product lead function, managing stakeholders across product management, architecture, engineering, legal, security, as well as presenting to senior management.
+- Technical contributions: develop custom in-house OCR model, design cloud service architecture (incl. 5 CV models) and on-prem client interaction (avoid tight feature coupling, client-side validation and auto-updating).
 - Technologies: Python, PyTorch, Docker, microservices architecture, Azure DevOps.
 
 
